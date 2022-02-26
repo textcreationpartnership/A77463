@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Brief relation of the proceedings of the High Court of Justice against Sir Henry Slingsby and Doctor John Hewet, who for treason against His Highness the Lord Protector, and the Commonwealth, in plotting and contriving a new and bloody war, by bringing in Charles Stuart into this nation, were both beheaded on Tower-Hill, on Tuesday the 8th of this instant June. : Also their last speech and confession at the said place of execution.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77463</idno>
+            <idno type="STC">Wing B4633A</idno>
+            <idno type="STC">ESTC R175600</idno>
+            <idno type="EEBO-CITATION">45578185</idno>
+            <idno type="OCLC">ocm 45578185</idno>
+            <idno type="VID">172140</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77463)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172140)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2615:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Brief relation of the proceedings of the High Court of Justice against Sir Henry Slingsby and Doctor John Hewet, who for treason against His Highness the Lord Protector, and the Commonwealth, in plotting and contriving a new and bloody war, by bringing in Charles Stuart into this nation, were both beheaded on Tower-Hill, on Tuesday the 8th of this instant June. : Also their last speech and confession at the said place of execution.</title>
+               </titleStmt>
+               <extent>[2], 12 p., [1] leaf of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Andrews, at the White Lion in Pye-Corner,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Slingsby, Henry, --  Sir, 1602-1658.</term>
+               <term>Hewit, John, 1614-1658.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172140:1" rendition="simple:additions"/>
+            <p>A BRIEF RELATION Of the Proceedings of the High COURT of JUSTICE, Againſt Sir Henry Slingsby And Doctor John Hewet, Who for Treaſon againſt His Highneſs the Lord Protector, and the Commonwealth, in Plotting and Contriving a new and Bloody War, by bringing in <hi>Charles Stuart</hi> into this Nation, were both beheaded on Tower-Hill, on <hi>Tueſday</hi> the 8<hi rend="sup">th</hi> of this Inſtant <hi>June.</hi>
+            </p>
+            <p>Alſo their laſt Speech and Confeſſion at the ſaid place of Execution.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Andrews,</hi> at the White Lion in <hi>Pye-Corner,</hi> 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172140:2"/>
+            <pb n="1" facs="tcp:172140:2"/>
+            <head>The Trial, Sentence, and Condemnation of Dr. <hi>John Hewet,</hi> and Sir <hi>Henry Slingsby,</hi> who for high Treaſon was condemned, by the high Court of Juſtice, &amp;c.</head>
+            <figure>
+               <pb facs="tcp:172140:3"/>
+               <pb facs="tcp:172140:4"/>
+               <figDesc>execution of a traitor</figDesc>
+            </figure>
+            <p>Sir <hi>Henry Slingsby</hi> being firſt brought to Trial, was impeached of high Treaſon, for endeavour<g ref="char:EOLhyphen"/>ing to raiſe a new War, by bring<g ref="char:EOLhyphen"/>ing in <hi>Charles Stuart</hi> into <hi>Hull;</hi> he at firſt pleaded, <hi>Not guilty,</hi> and alſo
+<pb n="4" facs="tcp:172140:5"/>excuſed the matter, pretending it was onely in jeaſt: but it is not good jeaſting with Edge-tooles. After this Doctour <hi>Hewet</hi> was a<g ref="char:EOLhyphen"/>raigned for high Treaſon, in theſe particulars: Firſt, In raiſing For<g ref="char:EOLhyphen"/>ces, and traitorouſly levying War againſt his Highneſs, to ſubvert and deſtroy the Government. Se<g ref="char:EOLhyphen"/>condly, In promoting <hi>Charles Stu<g ref="char:EOLhyphen"/>art</hi> to be King of <hi>England, Scot<g ref="char:EOLhyphen"/>land,</hi> and <hi>Ireland;</hi> and keeping cor<g ref="char:EOLhyphen"/>reſpondency with the ſaid <hi>Charles Stuart;</hi> and by giving out Com<g ref="char:EOLhyphen"/>miſſions from the ſaid <hi>Charles Stu<g ref="char:EOLhyphen"/>art,</hi> for the raiſing of Forces, for to maintain a new War.</p>
+            <p>The Indictment of high Treaſon being read, he not onely refuſed to plead, but began to queſtion the au<g ref="char:EOLhyphen"/>thority of the Court, and to give out very ſeditious ſpeeches to the people, againſt both the Govern<g ref="char:EOLhyphen"/>ment, and the Governours of the
+<pb n="5" facs="tcp:172140:5"/>Nation; endeavouring to take off the Peoples Affection from the preſent Government.</p>
+            <p>The Court after much patience and gentleneſs towards the Doctor, whoſe unhandſome carriage might have provoked them to advanta<g ref="char:EOLhyphen"/>ges againſt him, were notwith<g ref="char:EOLhyphen"/>ſtanding all inforced to proceed againſt him to judgement.</p>
+            <p>Next after him was arraigned one Mr. <hi>John Mordant,</hi> brother to the Earle of Peterborough, who after examination of Witneſſes, and other circumſtances, was found Not guilty, and thereupon he was quitted by the Court.</p>
+            <p>The next day the priſoners, <hi>viz.</hi> Sir <hi>Henry Slingsby,</hi> Doctor <hi>John Hewet,</hi> and Mr. <hi>John Mordant,</hi> were all three brought to the Bar, where the Judgement of the Court paſſed againſt them, as followeth: Sen<g ref="char:EOLhyphen"/>tence being to be given by the Lord
+<pb n="6" facs="tcp:172140:6"/>Preſident, his Lordſhip was pleaſed in the firſt place, to expreſſe him<g ref="char:EOLhyphen"/>ſelf very piouſly and ſeriouſly to the three Priſoners at the Bar, ſet<g ref="char:EOLhyphen"/>ting forth the hainouſneſſe of the ſaid Treaſon, exhorting them to repentance for the ſame, ſhewing them the ſad effects thereof both to themſelves and others. Which being done, the finall Sentence and Judgement of the Court was read by the Clerk, as followeth:</p>
+            <p>That upon conſideration of the Treaſons by them the ſaid <hi>Henry Slingsby,</hi> Knight, and <hi>John Hewet</hi> Doctor of Divinity, the Court be<g ref="char:EOLhyphen"/>ing ſatisfied in Judgement and Conſcience, that they the ſaid Sir <hi>Henry Slingsby,</hi> and Doctor <hi>John Hewet,</hi> were both guilty of high Treaſon; for which aforeſaid Trea<g ref="char:EOLhyphen"/>ſon, we do adjudge you the ſaid Sir <hi>Henry Slingsby</hi> and <hi>John Hewet,</hi> as falſe Traitors to His Highneſs
+<pb n="7" facs="tcp:172140:6"/>the Lord Protector, and the Com<g ref="char:EOLhyphen"/>monwealth: to be conveyed back to the Tower, and from thence to be drawn through the City of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> to the Gallows of <hi>Tyburn,</hi> and there to be hanged, and being alive, to be cut down, and their Bowels taken out and burnt; and their Heads cut off, and their Body di<g ref="char:EOLhyphen"/>vided into quarters, and after diſ<g ref="char:EOLhyphen"/>poſed of according to His High<g ref="char:EOLhyphen"/>neſs the Lords Protectors plea<g ref="char:EOLhyphen"/>ſure.</p>
+            <p>After this, ſeverall godly and reverend Miniſters, viz. Doctor <hi>Reynolds,</hi> Mr. <hi>Joſeph Caryd,</hi> Mr. <hi>Ed<g ref="char:EOLhyphen"/>mund Callamy,</hi> and Mr. <hi>Marton,</hi> were ordered by the Commiſſioners, to repair forthwith to the ſaid Sir <hi>Henry Slingsby,</hi> and Doctor <hi>Hewet,</hi> to fit and prepare them for death.</p>
+            <p>Saturday the fifth of this in<g ref="char:EOLhyphen"/>ſtant June was the Day appointed for the Execution or Sir <hi>Henry
+<pb n="8" facs="tcp:172140:7"/>Slingsby,</hi> and Dr. <hi>Hewet,</hi> according to the foreſaid Sentence, and ac<g ref="char:EOLhyphen"/>cordingly Warrants were iſſued forth for the Execution of the ſaid Sentence; but His Highneſſe the Lord Protector, upon addreſſe made to His Highneſſe, was graci<g ref="char:EOLhyphen"/>ouſly pleaſed to grant a Reprieve for the ſaid Sir <hi>Henry Slingsby</hi> and Doctor <hi>Hewet,</hi> untill <hi>Tueſday</hi> the Eighth day of this inſtant June; and to revoke the ſaid Sentence pronounced againſt them, doing them this honour, as to Order, That they the ſaid Sir <hi>Henry Slingſ<g ref="char:EOLhyphen"/>by,</hi> and <hi>John Hewet,</hi> ſhould be put to death, by having their Heads ſe<g ref="char:EOLhyphen"/>vered from their Bodies on Tower-Hill, and all other Circumſtances in the ſaid Sentence to be remitted.</p>
+            <p>And according to this Order of His Highneſs the ſaid Sir <hi>Henry Slingsby,</hi> and <hi>John Hewet</hi> Doctor of Divinity were both brought to
+<pb n="9" facs="tcp:172140:7"/>the Scaffold on Tower-Hill, on Tueſday the Eigth day of this In<g ref="char:EOLhyphen"/>ſtant June. The Scaffold being prepared about ten of the clock, the Lieutenant of the Tower of <hi>London</hi> delivered into the hands of the Sheriffs of <hi>London</hi> the priſoner Sir <hi>Henry Slingsby,</hi> who immediately conveyed him unto the Scaffold; there being ſeverall Companies both of Horſe and Foot, beſides the Officers belonging to the ſaid Sheriffs, attending to that purpoſe, where in the preſence of many thouſands of people, who were there to behold this woefull Tra<g ref="char:EOLhyphen"/>gedy, they aſcended the Scaffold. Sir <hi>Henry Slingsby</hi> being mounted the Scaffold, immediately began to take leave of his Friends there pre<g ref="char:EOLhyphen"/>ſent, and to prepare himſelf for the ſtroke of death: he ſpake but little, being not above half an hour upon the Scaffold: ſeverall eminent Mi<g ref="char:EOLhyphen"/>niſters
+<pb n="10" facs="tcp:172140:8"/>being there preſent, they all went to Prayers; which being done, he freely forgave the Execu<g ref="char:EOLhyphen"/>tioner: Then laying downe his Head upon the Block, commending his Soul to God; gave the ſigne to the Executioner by ſpreading forth his Hands, who at one blow ſever<g ref="char:EOLhyphen"/>ed his Head from his Body. Which being done, his Corps was preſent<g ref="char:EOLhyphen"/>ly conveyed away in a Coffin pre<g ref="char:EOLhyphen"/>pared for that purpoſe.</p>
+            <p>After this, the Sheriff deſcend<g ref="char:EOLhyphen"/>ing from the Scaffold, went down to the Tower, where the Lord Lieutenant of the Tower delivered into their cuſtody the other Priſo<g ref="char:EOLhyphen"/>ner Dr. <hi>John Hewet;</hi> who being at<g ref="char:EOLhyphen"/>tended by ſeveral learned Divines, to wit. Dr <hi>Wilde,</hi> Dr. <hi>Reeves,</hi> and ſeveral others: they likewiſe alſo conveighed towards the Scaffold, where being come, they preſently aſcended. The Dr. being upon the
+<pb n="11" facs="tcp:172140:8"/>Scaffold kneeled down to prayers ſeveral times, and for the ſpace of ſome two hours continued ſpeak<g ref="char:EOLhyphen"/>ing, firſt to the Sheriff, after to the people there aſſembled, carried himſelf with much courage and re<g ref="char:EOLhyphen"/>ſolution, exhorting all men there preſent to prepare themſelves for death. Having ended his Speech, (the Particulars whereof are too large to be inſerted here) only theſe he inſiſted on, to clear himſelf, That he had no hand in the late Plot of Firing the City. He denyed that the Marqueſs of <hi>Ormond</hi> lay at his Houſe: or that he was at <hi>Bruges</hi> with <hi>Charles Stuart.</hi> He excuſed his ignorance in the Law, for not plea<g ref="char:EOLhyphen"/>ding to his Charge. He prayed particularly for <hi>Charles Stuart,</hi> and that Family. Which done, he again kneeled down to prayer, recom<g ref="char:EOLhyphen"/>mending himſelf to God, he roſe up again, and put on his cap, the Exe<g ref="char:EOLhyphen"/>cutioner
+<pb n="12" facs="tcp:172140:9"/>put up his hair, who he freely forgave: then laying down his head upon the Block, he prepa<g ref="char:EOLhyphen"/>red himſelf for the diſmal Stroak, and the ſign being given, as before, by ſtretching forth his hands, the Executioner at one blow ſevered his head from his body: which be<g ref="char:EOLhyphen"/>ing done, his Corps was likewiſe put into a Coffin, being at the Scaffold very ready for that pur<g ref="char:EOLhyphen"/>poſe, and ſo was conveighed away by his friends, by whom great pre<g ref="char:EOLhyphen"/>paration is made for his Funeral, at <hi>Gregory's</hi> near <hi>Pauls.</hi>
+            </p>
+            <epigraph>
+               <q>Sic tranſit Gloria mundi.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
